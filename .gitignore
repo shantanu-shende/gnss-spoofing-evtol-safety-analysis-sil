@@ -1,0 +1,18 @@
+# ignore build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.blg
+*.bbl
+
+# ignore Python caches
+__pycache__/
+*.pyc
+
+# ignore heavy CSV unless needed
+experiments/sim/results_timeseries.csv
+
+# ignore binary backups
+*.bak
+*.tmp
