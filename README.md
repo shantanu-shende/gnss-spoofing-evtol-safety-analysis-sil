@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Evaluating GNSS Spoofing as a Cyber-Safety Risk in eVTOL Aircraft
 
 ### Pilot Software-in-the-Loop (SIL) Study
