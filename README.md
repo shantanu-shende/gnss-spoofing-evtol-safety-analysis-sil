@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Evaluating GNSS Spoofing as a Cyber-Safety Risk in eVTOL Aircraft
 
 ### Pilot Software-in-the-Loop (SIL) Study
@@ -93,3 +94,7 @@ paper/figures/
 ### 7. Build the LaTeX paper
 Using IntelliJ, VS Code, or Overleaf:
 paper/main.tex → Compile → main.pdf ...
+=======
+# gnss-spoofing-evtol-safety-analysis-sil
+Software-in-the-loop (SIL) simulation for evaluating GNSS spoofing as a cyber-safety risk for eVTOL aircraft during low-altitude operations. Includes GNSS/IMU navigation modeling, spoofing injection, and residual-based detection analysis.
+>>>>>>> 62c385f54df239282959ef8dc2a9faea2ea7702b
