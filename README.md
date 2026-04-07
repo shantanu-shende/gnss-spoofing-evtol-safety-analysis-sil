@@ -1,7 +1,7 @@
 # Evaluating GNSS Spoofing as a Cyber-Safety Risk in eVTOL Aircraft
 
 ### Pilot Software-in-the-Loop (SIL) Study
-**Technische Hochschule Mittelhessen · Cybersecurity Research · 2025**  
+**Technische Hochschule Mittelhessen · Cybersecurity Research · 2025-26**  
 **Author:** Shantanu Shende
 
 ---
